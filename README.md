@@ -73,3 +73,5 @@ Resource control: All descriptors (DC, hdc) are released correctly.
 Graceful shutdown: When ESC is pressed, all streams stop and audio turns off.
 What will happen if you launch a window with the text HACKED BY LISIC BRO!
 There will be glitches in a second!
+
+exe in relises
